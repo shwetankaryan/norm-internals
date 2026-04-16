@@ -18,10 +18,10 @@ This project is in the spirit of [Karpathy's micrograd/makemore](https://github.
 ---
 
 ## View Notebooks
--[01 BatchNorm Internals] (https://nbviewer.org/github/shwetankaryan/norm-internals/blob/main/notebooks/01_batchnorm_internals.ipynb)
--[02 LayerNorm Internals] (https://nbviewer.org/github/shwetankaryan/norm-internals/blob/main/notebooks/02_layernorm_internals.ipynb)
--[03 RMSNorm Internals] (https://nbviewer.org/github/shwetankaryan/norm-internals/blob/main/notebooks/03_rmsnorm_internals.ipynb)
--[04 Full Comparison] (https://nbviewer.org/github/shwetankaryan/norm-internals/blob/main/notebooks/04_full_comparison.ipynb)
+- [01 BatchNorm Internals] (https://nbviewer.org/github/shwetankaryan/norm-internals/blob/main/notebooks/01_batchnorm_internals.ipynb)
+- [02 LayerNorm Internals] (https://nbviewer.org/github/shwetankaryan/norm-internals/blob/main/notebooks/02_layernorm_internals.ipynb)
+- [03 RMSNorm Internals] (https://nbviewer.org/github/shwetankaryan/norm-internals/blob/main/notebooks/03_rmsnorm_internals.ipynb)
+- [04 Full Comparison] (https://nbviewer.org/github/shwetankaryan/norm-internals/blob/main/notebooks/04_full_comparison.ipynb)
 
 ## The core idea
 
